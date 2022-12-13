@@ -3,7 +3,6 @@ import logo from "../../assets/logo.svg"
 import * as AlertDialog from '@radix-ui/react-alert-dialog';
 import { NewTransactionModal } from "../NewTransactionModal";
 
-
 export function Header() {
     return (
         <HeaderContainer>
